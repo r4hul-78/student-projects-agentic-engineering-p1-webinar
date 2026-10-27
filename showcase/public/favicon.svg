@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none">
+  <rect width="64" height="64" rx="14" fill="#124650"/>
+  <!-- Circuit traces -->
+  <path d="M12 32h14l8-12h18" stroke="#1597a1" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M12 44h22l6-8h12" stroke="#bfeff0" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M26 20h10l6 8" stroke="#20b4bc" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Nodes -->
+  <circle cx="12" cy="32" r="3.5" fill="#20b4bc"/>
+  <circle cx="52" cy="20" r="4" fill="#ffffff" stroke="#1597a1" stroke-width="2"/>
+  <circle cx="52" cy="36" r="3.5" fill="#bfeff0"/>
+  <circle cx="26" cy="20" r="3" fill="#ffffff"/>
+  <circle cx="34" cy="20" r="2.5" fill="#20b4bc"/>
+  <circle cx="12" cy="44" r="3" fill="#1597a1"/>
+</svg>
